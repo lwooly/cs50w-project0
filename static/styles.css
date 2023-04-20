@@ -69,6 +69,18 @@ input:hover {
     user-select: none;
 }
 
+#search_btn {
+    left:35%;
+    transform: translate(-50%, 0%);
+}
+
+#lucky_btn {
+    left:65%;
+    transform: translate(-50%, 0%);
+}
+
+
+
 .button:hover {
     border:1px solid lightgray;
     box-shadow: 2px 2px 1px 0.5px #f8f9fa;
@@ -104,7 +116,6 @@ input:hover {
 }
 
 .text-grey {
-    font-size:12;
     color:grey;
     font-weight: 500;
 }
